@@ -1,6 +1,6 @@
 -- Problem: Write a solution to find the ids of products that are both low fat and recyclable.
 -- Difficulty: Easy
--- My approach: Simple WHERE filter
+-- My approach: Simple WHERE filter with AND condition
 -- LeetCode #1
 
 SELECT
